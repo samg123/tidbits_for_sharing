@@ -5,3 +5,6 @@ Included files to date:
 
 ### SphericalvsCartesian.ipynb
 A python notebook that compares a cartesian Crank-Nicolson to a spherical Crank-Nicolson solution to the diffusion equation.
+
+### Numerical methods1-D spherical difusion equation.ipynb
+A python notebook that works through the derivation of the Crank-Nicolson scheme for solving the 1-D radial spherical diffusion equation.
